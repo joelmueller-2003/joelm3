@@ -1,7 +1,6 @@
 # Hi, I’m @joelmuellerdev
 
-- 👨‍💻 Multimedia Specialist & Junior Frontend Developer
-- 📚 Learning to build Web-Apps using Angular Material
-- 🚀 Building websites with WordPress & Astro
-- 🎓 iCompetence Student at [FHNW Fachhochschule Nordwestschweiz](https://www.fhnw.ch/)
+- 👨‍💻 Junior Frontend Developer based in Switzerland
+- 🚀 Building web-applications with Angular Material and Spring Boot
+- 📚 iCompetence Student at [FHNW Fachhochschule Nordwestschweiz](https://www.fhnw.ch/)
 - 🦉 Working at [ElderByte](https://elderbyte.com/)
